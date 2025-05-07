@@ -161,7 +161,7 @@ body {
 /* Profile Image (from .image-3 and inline width) */
 .profile-image {
   margin-bottom: 18px;
-  width: 300px;
+  width: 200px;
   height: auto; /* Maintain aspect ratio */
 }
 
